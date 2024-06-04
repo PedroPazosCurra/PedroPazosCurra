@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analisys & Large Language Models**
 
-- 👨‍💻 All of my projects are available...nowhere....I've got no portfolio yet, working on it!
+- 👨‍💻 All of my projects are available...here! I've got no portfolio yet, I'm working on it!
 
 - 📫 How to reach me **pedropazos11@gmail.com**
 
