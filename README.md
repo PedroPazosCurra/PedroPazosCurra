@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Spanish Computer Science Student</h3>
 
-- 🔭 I’m currently working on **my undergraduate thesis project**
+- 🔭 I’m currently working on <a href="https://github.com/PedroPazosCurra/ASP-Puzzle-Solver" target="_blank" rel="noreferrer"> **my undergraduate thesis project**</a>
 
-- 🌱 I’m currently learning **Data Analisys & Large Language Models**
+- 🌱 I’m currently learning **Data Analysis & Large Language Models**
 
-- 👨‍💻 All of my projects are available...here! I've got no portfolio yet, I'm working on it!
+- 👨‍💻 My projects are available here! I've got no portfolio yet, I'm working on it!
 
-- 📫 How to reach me **pedropazos11@gmail.com**
+- 📫 Reach me through **pedropazos11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
