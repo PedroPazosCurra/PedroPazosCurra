@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">Spanish Computing Apprentice</h3>
+<h3 align="center">Spanish Computer Science Student</h3>
 
 - 🔭 I’m currently working on **my undergraduate thesis project**
 
