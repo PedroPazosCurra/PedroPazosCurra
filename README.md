@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">Spanish Computer Science Student</h3>
+<h3 align="center">Spanish Computer Science Bachelor</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/PedroPazosCurra/ASP-Puzzle-Solver" target="_blank" rel="noreferrer"> **my undergraduate thesis project**</a>
+- 🔭 I’m currently working as Junior Software Engineer in RF system integration & testing 
 
-- 🌱 I’m currently learning **Data Analysis & Large Language Models**
-
-- 👨‍💻 My projects are available here! I've got no portfolio yet, I'm working on it!
+- 🌱 I’m currently learning about **Data Analysis & Large Language Models**
 
 - 📫 Reach me through **pedropazos11@gmail.com**
 
