@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">Spanish Computer Science Bachelor</h3>
+<h3 align="center">Junior Software Engineer</h3>
 
 - 🔭 I’m currently working as Junior Software Engineer in RF system integration
 
