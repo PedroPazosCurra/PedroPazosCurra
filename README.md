@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Spanish Computer Science Bachelor</h3>
 
-- 🔭 I’m currently working as Junior Software Engineer in RF system integration & testing 
+- 🔭 I’m currently working as Junior Software Engineer in RF system integration
 
-- 🌱 I’m currently learning about **Data Analysis & Large Language Models**
+- 🌱 I’m currently learning about **Hardware and low level programming**
 
 - 📫 Reach me through **pedropazos11@gmail.com**
 
