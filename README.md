@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-- 🔭 I’m currently working as Junior Software Engineer in RF system integration
+- 🔭 I’m currently working as Junior Software Engineer in embedded systems integration
 
-- 🌱 I’m currently learning about **Hardware and low level programming**
+- 🌱 I’m currently learning about **Data Science**
 
-- 📫 Reach me through **pedropazos11@gmail.com**
+- 📫 Reach me through **pedropazos11@gmail.com** !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
