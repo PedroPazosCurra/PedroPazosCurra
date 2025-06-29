@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pedro :)</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-- 🔭 I’m currently working as Junior Software Engineer in embedded systems integration
+
+- 🔭 My current role is **Junior Software Engineer in embedded systems integration** at **INDRA**
 
 - 🌱 I’m currently learning about **Data Science**
 
-- 📫 Reach me through **pedropazos11@gmail.com** !
+- 📫 Got an opportunity for me? Reach me through **pedropazos11@gmail.com** !
 
-<h3 align="left">Connect with me in Linkedin! :</h3>
 <p align="left">
+<h3 align="left">Connect with me in Linkedin! :</h3>
 <a href="https://www.linkedin.com/in/pedro-pazos-curra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-pazos-curra" height="30" width="40" /></a>
 </p>
 
