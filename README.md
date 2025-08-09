@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about **Data Science**
 
-- 📫 Got an opportunity for me? Reach me through **pedropazos11@gmail.com** !
+- 📫 Contact me via **pedropazos11@gmail.com** !
 
 <h3 align="left"> Connect with me in Linkedin! </h3>
 <a href="https://www.linkedin.com/in/pedro-pazos-curra/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="pedro-pazos-curra" height="30" width="30" /></a>
